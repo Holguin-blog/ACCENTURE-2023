@@ -1,0 +1,101 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(204, 228, 245);   
+    background-size:35%;
+    background-position: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nota{
+    width: 550px;
+    height: 600px;
+    margin-top: 250px;
+    margin-left: 720px;
+}
+.uno{
+    width: 400px;
+    height: 120px;
+    background-color: #082446;
+    margin-top: -580px; 
+    margin-left: 510px;   
+    position: absolute;
+    border-radius: 30px;
+}
+.dos{
+    width: 400px;
+    height: 120px;
+    background-color: #0c3e7a;
+    position: absolute;
+    border-radius: 30px;
+    margin-top: -440px;
+    margin-left: 1150px;
+}
+.tres{
+    width: 400px;
+    height: 120px;
+    background-color: #2d4f77;
+    position: absolute;
+    border-radius: 30px;
+    margin-top: -300px;
+    margin-left: 420px;
+}
+.cuatro{
+    width: 400px;
+    height: 120px;
+    background-color: #2866b3;
+    position: absolute;
+    border-radius: 30px;
+    margin-left: 1160px;
+    margin-top: -150px;
+}
+.contacto{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(42, 141, 199);
+    margin-left:770px ;
+    font-size: 100px;
+    position: absolute;
+    margin-top: 20px;
+}
+.correo{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 35px;
+    color: rgb(202, 226, 247);
+}
+.insta{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 35px;
+    color: rgb(202, 226, 247);
+}
+.obj{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 35px;
+    color: rgb(202, 226, 247);
+}
+.verdad{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 35px;
+    color: rgb(202, 226, 247);
+}
+img#regreso{
+    font-size: 70px;
+    position: absolute;
+    margin-top: -815px;
+    margin-left: 20px;
+    height: 70px;
+}
+@import "../node_modules/bootstrap/scss/bootstrap";

@@ -1,0 +1,130 @@
+body{
+    background: #b5cbff;
+}
+#bienvenida{
+    background-color:#c8ebfa;
+    width: 100%;
+
+}
+h1{
+    font-size: 60pt;
+    text-align: center;
+    color:#093b69;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto-bienvenida{
+    text-align: center;
+    font-size: 30pt;
+    color: rgb(10, 42, 136);
+    font-family: 'Bebas Neue', cursive;
+    ;
+}
+
+img{
+    float: left;
+    border: 5px solid rgb(248, 212, 248);
+    height: 500px;
+  width: 400px;
+}
+form input{
+  border: 2px solid rgba(255, 0, 0, 0);
+  border-radius: 12px;
+  padding: 10px 70px;
+}
+form{
+    align-items: center;
+}
+#panoma{
+    width:50px;
+    height:50px;
+    padding-right: 1%;
+}
+
+.formulario{	
+    border: #015255;
+	width: 460px; 
+  height: auto;
+  margin: 80px auto;
+	border-radius: 10px;  
+	padding-top: 10px;
+	padding-bottom: 20px;  
+  background-color: #fbfbfb; 
+  padding-left: 30px; 
+}
+.form{
+	font-size: 60pt;  
+	text-align: letf; 
+	padding-bottom: 20px; 
+	color: #9aecc6;
+}
+input{
+	background-color: #c4e4e9; 
+    border-color: #032456;
+	width: 300px; 
+	height: 40px; 
+	border-radius: 10px;  
+	border-style: solid; 
+	border-width: 1px; 
+	margin-top: 10px;  
+	padding-left: 10px;
+  margin-bottom: 20px; 
+}
+
+
+textarea{
+  background-color: #fbfbfb; 
+	width: 405px; 
+	height: 150px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #446aab; 
+	margin-top: 10px;  
+	padding-left: 10px;
+  margin-bottom: 20px; 
+  padding-top: 15px; 
+}
+
+
+
+button{
+	height: 45px; 
+	padding-left: 5px;
+	padding-right: 5px; 	
+	margin-bottom: 20px; 
+	margin-top: 10px; 	
+	text-transform: uppercase;
+	background-color: #abebe5; 
+	border-color: #9cdac5; 
+	border-style: solid; 
+	border-radius: 10px;	
+	width: 420px;   
+  cursor: pointer;
+}
+
+
+button p{
+	color: #fff; 
+}
+
+
+span{
+	color: #387ed3; 
+}
+
+
+.aviso{
+	font-size: 20px; 
+    text-align: center; 
+	color: #081e61; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.link{
+    width: 5%;
+    height: 5%;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    margin-left: 100pt;
+    margin-right: 100pt;
+}
